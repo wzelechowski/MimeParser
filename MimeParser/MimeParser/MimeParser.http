@@ -1,0 +1,6 @@
+@MimeParser_HostAddress = http://localhost:5017
+
+GET {{MimeParser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
